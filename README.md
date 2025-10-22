@@ -1,4 +1,4 @@
-# Hi, my name is Lúcio And i make things
+# Hi, my name is Lúcio
 
 ## Languages:
 | | |
